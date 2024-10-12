@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "Odonto.Presentacion.Controllers.ServicesController",
+    "Method": "RegisterService",
+    "RelativePath": "api/services/RegisterService",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "serviceRequestDto",
+        "Type": "Odonto.Shared.DTOs.ServicesDTO.ServiceRequestDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

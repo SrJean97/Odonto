@@ -1,0 +1,11 @@
+C:\Documentos\Proyectos\OdontologiaYoenis\Odonto\Odonto.Shared\bin\Debug\net8.0\Odonto.Shared.deps.json
+C:\Documentos\Proyectos\OdontologiaYoenis\Odonto\Odonto.Shared\bin\Debug\net8.0\Odonto.Shared.dll
+C:\Documentos\Proyectos\OdontologiaYoenis\Odonto\Odonto.Shared\bin\Debug\net8.0\Odonto.Shared.pdb
+C:\Documentos\Proyectos\OdontologiaYoenis\Odonto\Odonto.Shared\obj\Debug\net8.0\Odonto.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Documentos\Proyectos\OdontologiaYoenis\Odonto\Odonto.Shared\obj\Debug\net8.0\Odonto.Shared.AssemblyInfoInputs.cache
+C:\Documentos\Proyectos\OdontologiaYoenis\Odonto\Odonto.Shared\obj\Debug\net8.0\Odonto.Shared.AssemblyInfo.cs
+C:\Documentos\Proyectos\OdontologiaYoenis\Odonto\Odonto.Shared\obj\Debug\net8.0\Odonto.Shared.csproj.CoreCompileInputs.cache
+C:\Documentos\Proyectos\OdontologiaYoenis\Odonto\Odonto.Shared\obj\Debug\net8.0\Odonto.Shared.dll
+C:\Documentos\Proyectos\OdontologiaYoenis\Odonto\Odonto.Shared\obj\Debug\net8.0\refint\Odonto.Shared.dll
+C:\Documentos\Proyectos\OdontologiaYoenis\Odonto\Odonto.Shared\obj\Debug\net8.0\Odonto.Shared.pdb
+C:\Documentos\Proyectos\OdontologiaYoenis\Odonto\Odonto.Shared\obj\Debug\net8.0\ref\Odonto.Shared.dll
