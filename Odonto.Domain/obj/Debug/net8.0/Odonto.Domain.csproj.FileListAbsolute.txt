@@ -1,0 +1,14 @@
+C:\Documentos\Proyectos\OdontologiaYoenis\Odonto\Odonto.Domain\bin\Debug\net8.0\Odonto.Domain.deps.json
+C:\Documentos\Proyectos\OdontologiaYoenis\Odonto\Odonto.Domain\bin\Debug\net8.0\Odonto.Domain.runtimeconfig.json
+C:\Documentos\Proyectos\OdontologiaYoenis\Odonto\Odonto.Domain\bin\Debug\net8.0\Odonto.Domain.dll
+C:\Documentos\Proyectos\OdontologiaYoenis\Odonto\Odonto.Domain\bin\Debug\net8.0\Odonto.Domain.pdb
+C:\Documentos\Proyectos\OdontologiaYoenis\Odonto\Odonto.Domain\obj\Debug\net8.0\Odonto.Domain.csproj.AssemblyReference.cache
+C:\Documentos\Proyectos\OdontologiaYoenis\Odonto\Odonto.Domain\obj\Debug\net8.0\Odonto.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Documentos\Proyectos\OdontologiaYoenis\Odonto\Odonto.Domain\obj\Debug\net8.0\Odonto.Domain.AssemblyInfoInputs.cache
+C:\Documentos\Proyectos\OdontologiaYoenis\Odonto\Odonto.Domain\obj\Debug\net8.0\Odonto.Domain.AssemblyInfo.cs
+C:\Documentos\Proyectos\OdontologiaYoenis\Odonto\Odonto.Domain\obj\Debug\net8.0\Odonto.Domain.csproj.CoreCompileInputs.cache
+C:\Documentos\Proyectos\OdontologiaYoenis\Odonto\Odonto.Domain\obj\Debug\net8.0\Odonto.Domain.dll
+C:\Documentos\Proyectos\OdontologiaYoenis\Odonto\Odonto.Domain\obj\Debug\net8.0\refint\Odonto.Domain.dll
+C:\Documentos\Proyectos\OdontologiaYoenis\Odonto\Odonto.Domain\obj\Debug\net8.0\Odonto.Domain.pdb
+C:\Documentos\Proyectos\OdontologiaYoenis\Odonto\Odonto.Domain\obj\Debug\net8.0\Odonto.Domain.genruntimeconfig.cache
+C:\Documentos\Proyectos\OdontologiaYoenis\Odonto\Odonto.Domain\obj\Debug\net8.0\ref\Odonto.Domain.dll

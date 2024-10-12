@@ -1,0 +1,15 @@
+C:\Documentos\Proyectos\OdontologiaYoenis\Odonto\Odonto.Infrastructure\bin\Debug\net8.0\Odonto.Infrastructure.deps.json
+C:\Documentos\Proyectos\OdontologiaYoenis\Odonto\Odonto.Infrastructure\bin\Debug\net8.0\Odonto.Infrastructure.dll
+C:\Documentos\Proyectos\OdontologiaYoenis\Odonto\Odonto.Infrastructure\bin\Debug\net8.0\Odonto.Infrastructure.pdb
+C:\Documentos\Proyectos\OdontologiaYoenis\Odonto\Odonto.Infrastructure\bin\Debug\net8.0\Odonto.Domain.dll
+C:\Documentos\Proyectos\OdontologiaYoenis\Odonto\Odonto.Infrastructure\bin\Debug\net8.0\Odonto.Domain.pdb
+C:\Documentos\Proyectos\OdontologiaYoenis\Odonto\Odonto.Infrastructure\obj\Debug\net8.0\Odonto.Infrastructure.csproj.AssemblyReference.cache
+C:\Documentos\Proyectos\OdontologiaYoenis\Odonto\Odonto.Infrastructure\obj\Debug\net8.0\Odonto.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Documentos\Proyectos\OdontologiaYoenis\Odonto\Odonto.Infrastructure\obj\Debug\net8.0\Odonto.Infrastructure.AssemblyInfoInputs.cache
+C:\Documentos\Proyectos\OdontologiaYoenis\Odonto\Odonto.Infrastructure\obj\Debug\net8.0\Odonto.Infrastructure.AssemblyInfo.cs
+C:\Documentos\Proyectos\OdontologiaYoenis\Odonto\Odonto.Infrastructure\obj\Debug\net8.0\Odonto.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Documentos\Proyectos\OdontologiaYoenis\Odonto\Odonto.Infrastructure\obj\Debug\net8.0\Odonto.I.C2E348A9.Up2Date
+C:\Documentos\Proyectos\OdontologiaYoenis\Odonto\Odonto.Infrastructure\obj\Debug\net8.0\Odonto.Infrastructure.dll
+C:\Documentos\Proyectos\OdontologiaYoenis\Odonto\Odonto.Infrastructure\obj\Debug\net8.0\refint\Odonto.Infrastructure.dll
+C:\Documentos\Proyectos\OdontologiaYoenis\Odonto\Odonto.Infrastructure\obj\Debug\net8.0\Odonto.Infrastructure.pdb
+C:\Documentos\Proyectos\OdontologiaYoenis\Odonto\Odonto.Infrastructure\obj\Debug\net8.0\ref\Odonto.Infrastructure.dll
